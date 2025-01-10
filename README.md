@@ -5,6 +5,9 @@
 FluidSvelte is an experimental Python-based full-stack web framework that unifies frontend and backend development using a component-based approach inspired by Svelte to extend developments of Fluidframe. It allows developers to write full-stack components in a single file using Python, HTML, CSS and optional Javascript/Typescript.
 
 
+Refer [`Pvelte`](https://github.com/AswanthManoj/pvelte) for initial proof of concept code reference.
+
+
 ## Key Features
 - Single-file components with Python, HTML, and CSS
 - Fine-grained reactivity system similar to Svelte 5's runes
